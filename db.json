@@ -3,6 +3,7 @@
     {
       "id": 1,
       "nome": "Hambúrguer",
+      "codbarras":"111111111",
       "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
       "preco": 8.5,
       "categoria_id": 1
@@ -10,6 +11,7 @@
     {
       "id": 2,
       "nome": "X-Búrguer",
+      "codbarras":"2222222222",
       "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
       "preco": 10.5,
       "categoria_id": 1
@@ -17,6 +19,7 @@
     {
       "id": 3,
       "nome": "X-Bacon",
+      "codbarras":"333333333333",
       "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
       "preco": 12.5,
       "categoria_id": 1
@@ -24,6 +27,7 @@
     {
       "id": 4,
       "nome": "X-Tudo",
+      "codbarras":"444444444",
       "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
       "preco": 14.5,
       "categoria_id": 1
@@ -31,6 +35,7 @@
     {
       "id": 5,
       "nome": "Coca cola 350ml",
+      "codbarras":"555555555",
       "descricao": "",
       "preco": 5.5,
       "categoria_id": 2
@@ -38,6 +43,7 @@
     {
       "id": 6,
       "nome": "Coca cola 600ml",
+      "codbarras":"66666666",
       "descricao": "",
       "preco": 7.5,
       "categoria_id": 2
