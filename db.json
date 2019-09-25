@@ -1,25 +1,23 @@
 [
 {
-  id:1,
-  nome: 'teste 1',
-  codbarras: '123321123',
-  preco: 12.40,
-  imagem: '--1--'
+  "id":1,
+  "nome": "teste 1",
+  "codbarras": "123321123",
+  "preco": 12.40,
+  "imagem": "--1--"
 },
-
 {
-  id:2,
-  nome: 'teste 2',
-  codbarras: '222222222',
-  preco: 15.40,
-  imagem: '--2--'
+  "id":2,
+  "nome": "teste 2",
+  "codbarras": "222222222",
+  "preco": 15.40,
+  "imagem": "--2--"
 },
-
 {
-  id:3,
-  nome: 'teste 3',
-  codbarras: '3333333333',
-  preco: 3.40,
-  imagem: '--3--'
-},
+  "id":3,
+  "nome": "teste 3",
+  "codbarras": "3333333333",
+  "preco": 3.40,
+  "imagem": "--3--"
+}
 ]
